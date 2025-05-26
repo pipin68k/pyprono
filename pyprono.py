@@ -4,10 +4,7 @@
 pyprono - 英語発音練習プログラム
 
 必要なライブラリのインストール:
-pip install pyttsx3 speech_recognition pyaudio difflib
-
-Windowsの場合、追加で以下も必要:
-pip install pywin32
+pip install pyttsx3 SpeechRecognition pyaudio difflib pywin32
 """
 
 import os
